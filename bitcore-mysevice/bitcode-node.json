@@ -1,0 +1,14 @@
+{
+  "network": "testnet",
+  "port": 3001,
+  "services": [
+    "bitcoind",
+    "myservice"
+  ],
+  "servicesConfig": {
+    "bitcoind": {
+      "datadir": "/home/user/.bitcoin",
+      "exec": "/home/user/bitcoin/src/bitcoind"
+    }
+  }
+}
