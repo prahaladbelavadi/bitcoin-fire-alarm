@@ -1,0 +1,23 @@
+{
+  "name": "bitcoin-fire-alarm",
+  "version": "1.0.0",
+  "description": "Bitcoin address watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/bitcoin-fire-alarm.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "nodejs"
+  ],
+  "author": {"name": "Prahalad Belavadi","email": "prahaladbelavadi@gmail.com","url": "belavadi.com"},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/bitcoin-fire-alarm/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/bitcoin-fire-alarm#readme"
+}
